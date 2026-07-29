@@ -86,6 +86,6 @@ queuectl config get
 
 ### Demo
 
-[link to my recording goes here]
+https://drive.google.com/file/d/1PZXfOmrr0HrWMFgpETLtCD8vuloIb7lb/view?usp=sharing
 
 ## How it's put together
